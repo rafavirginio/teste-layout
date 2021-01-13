@@ -85,10 +85,13 @@ button {
 }
 section {
     margin-bottom:2rem;
+    background-color:rgb(220, 220, 220);
+    height:20rem;
 }
 .growth-plans {
   color: rgb(50, 50, 50);
   padding: 1rem;
+  
 }
 .grafic-cards {
   display: flex;
@@ -206,4 +209,53 @@ section {
   text-align:left;
 }
 
+
+
+
 }
+.card-1 {
+  width: 7rem;
+  
+
+}
+.card-2 {
+  width: 7rem;
+ 
+}
+.card-3 {
+  width: 7rem;
+  
+}
+.card-4 {
+  width: 7rem;
+ 
+}
+.card-5 {
+  width: 7rem;
+  
+}
+.card-6 {
+  width: 7rem;
+
+}
+.subcard-1 {
+  width: 7rem;
+  height: 5.5rem;
+}
+.subcard-2 {
+  width: 7rem;
+}
+.subcard-3 {
+  width: 7rem;
+}
+.subcard-4 {
+  width: 7rem;
+}
+.subcard-5 {
+  width: 7rem;
+}
+.subcard-6 {
+  width: 7rem;
+  
+}
+
