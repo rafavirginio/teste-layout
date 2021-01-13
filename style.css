@@ -39,7 +39,6 @@ button {
 .categories {
   color: white;
   text-align: center;
-  justify-content: center;
   margin: 10px;
 }
 .nature {
@@ -171,17 +170,19 @@ section {
 .categories{
     display: flex;
     flex-wrap: wrap;
-    justify-content:space-between;
 
 }
 .nature{
-    height:20rem;
-    width:20rem;
+    height:17rem;
+    width:20%;
+    margin:8px;
     
 }
 .daily{
-    height: 20rem;
-    width:45rem;
+    height: 17rem;
+    width:75%;
+    margin:5px;
+
     
 }
 
