@@ -3,6 +3,8 @@
   margin: 0;
   box-sizing: border-box;
 }
+body{
+  font-family: 'Poppins', sans-serif;}
 
 header {
   background-image: url("./images/mountain.jpg");
@@ -187,8 +189,21 @@ section {
     height: 15rem;
     width:60%;
     text-align:left;
-
-    
+}
+.together{
+  height: 15rem;
+  width:93.5%;
+  text-align:left;
+}
+.analysis{
+  height: 15rem;
+  width:60%;
+  text-align:right ;
+}
+.pictures{
+  height:15rem;
+  width:30%;
+  text-align:left;
 }
 
 }
