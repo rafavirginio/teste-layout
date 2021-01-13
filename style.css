@@ -167,21 +167,26 @@ section {
 
 @media screen and (min-width: 600px)
 {
+ 
+  .title-categories{
+    margin-left:2rem;
+
+  }
 .categories{
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-evenly;
 
 }
 .nature{
-    height:17rem;
-    width:20%;
-    margin:8px;
+    height:15rem;
+    width:30%;
     
 }
 .daily{
-    height: 17rem;
-    width:75%;
-    margin:5px;
+    height: 15rem;
+    width:60%;
+    text-align:left;
 
     
 }
