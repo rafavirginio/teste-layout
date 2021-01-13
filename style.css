@@ -101,76 +101,99 @@ section {
   color: white;
   text-align: center;
 }
+.grafic-cards p{
+  font-size:10px;
+}
+
 .card-1 {
   width: 3rem;
   height: 5rem;
-  background-color: blue;
+  background-color: rgb(0, 83, 153);
   margin-top: -90px;
 }
 .card-2 {
   width: 3rem;
   height: 5rem;
-  background-color: blue;
+  background-color:  rgb(0, 83, 153);
   margin-top: -110px;
 }
 .card-3 {
   width: 3rem;
   height: 5rem;
-  background-color: blue;
+  background-color:  rgb(0, 83, 153);
   margin-top: -130px;
 }
 .card-4 {
   width: 3rem;
   height: 5rem;
-  background-color: blue;
+  background-color:  rgb(0, 83, 153);
   margin-top: -150px;
 }
 .card-5 {
   width: 3rem;
   height: 5rem;
-  background-color: blue;
+  background-color:  rgb(0, 83, 153);
   margin-top: -165px;
 }
 .card-6 {
   width: 3rem;
   height: 5rem;
-  background-color: blue;
+  background-color:  rgb(0, 83, 153);
   margin-top: -175px;
 }
 .subcard-1 {
   width: 3rem;
   height: 5.5rem;
-  background-color: rgb(0, 225, 255);
+  background-color: rgb(0, 135, 235);
+  display: flex;
+  flex-direction: column;
+justify-content: space-between;
 }
 .subcard-2 {
   width: 3rem;
   height: 6.8rem;
-  background-color: rgb(0, 225, 255);
+  background-color: rgb(0, 135, 235);
+  display: flex;
+  flex-direction: column;
+justify-content: space-between;
 }
 .subcard-3 {
   width: 3rem;
   height: 8rem;
-  background-color: rgb(0, 225, 255);
+  background-color: rgb(0, 135, 235);
+  display: flex;
+  flex-direction: column;
+justify-content: space-between;
 }
 .subcard-4 {
   width: 3rem;
   height: 9.2rem;
-  background-color: rgb(0, 225, 255);
+  background-color: rgb(0, 135, 235);
+  display: flex;
+  flex-direction: column;
+justify-content: space-between;
 }
 .subcard-5 {
   width: 3rem;
   height: 10.1rem;
-  background-color: rgb(0, 225, 255);
+  background-color: rgb(0, 135, 235);
+  display: flex;
+  flex-direction: column;
+justify-content: space-between;
 }
 .subcard-6 {
   width: 3rem;
   height: 10.7rem;
-  background-color: rgb(0, 225, 255);
+  background-color: rgb(0, 135, 235);
+  display: flex;
+  flex-direction: column;
+justify-content: space-between;
 }
+
 
 /* desktop version */
 
-@media screen and (min-width: 600px)
+@media screen and (min-width: 700px)
 {
  
   .title-categories{
@@ -209,10 +232,6 @@ section {
   text-align:left;
 }
 
-
-
-
-}
 .card-1 {
   width: 7rem;
   
@@ -259,3 +278,4 @@ section {
   
 }
 
+}
