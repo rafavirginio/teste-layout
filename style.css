@@ -12,10 +12,12 @@ header {
   text-align: center;
   color: white;
 }
-header > img {
+.logo img {
+  width:150px;
   padding: 2rem;
-  position: relative;
+  /* position: relative; */
 }
+
 
 h1 {
   padding: 4rem 1rem 1rem;
@@ -102,7 +104,8 @@ section {
   text-align: center;
 }
 .grafic-cards p{
-  font-size:10px;
+  font-size:4px;
+  padding:5px;
 }
 
 .card-1 {
@@ -230,6 +233,11 @@ justify-content: space-between;
   height:15rem;
   width:30%;
   text-align:left;
+}
+
+.grafic-cards p{
+  font-size:8px;
+  padding:10px;
 }
 
 .card-1 {
