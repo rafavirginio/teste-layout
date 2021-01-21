@@ -27,16 +27,18 @@ h1 {
 }
 button {
   margin: 60px;
-  padding: 8px 50px;
+  padding: 8px 70px;
   font-weight: bold;
   color: rgb(50, 50, 50);
   position: relative;
   border-radius: 5px;
   outline: none;
+  border: none;
 }
 button:hover {
-  background-color: rgb(190, 220, 217);
+  background-color: rgb(26, 109, 204);
   transition: 0.7s;
+  color: white;
 }
 
 /* sessão categorias */
