@@ -14,6 +14,8 @@ header {
   width: 100%;
   text-align: center;
   color: white;
+  background-size: cover;
+  background-position: center;
 }
 .logo img {
   width: 150px;
